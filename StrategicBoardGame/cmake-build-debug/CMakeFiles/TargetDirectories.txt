@@ -1,3 +1,0 @@
-C:/Users/aydin/OneDrive/Masaüstü/StrategicBoardGame/cmake-build-debug/CMakeFiles/StrategicBoardGame.dir
-C:/Users/aydin/OneDrive/Masaüstü/StrategicBoardGame/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/aydin/OneDrive/Masaüstü/StrategicBoardGame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
